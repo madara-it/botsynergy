@@ -1,0 +1,15 @@
+# Токены и секреты
+*.env
+*.key
+*.token
+
+# Логи
+*.log
+bot_log.txt
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+
